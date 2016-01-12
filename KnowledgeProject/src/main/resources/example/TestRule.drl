@@ -1,2 +1,8 @@
 package example;
 
+rule "Sample"
+when
+  Object();
+then
+  System.out.println("Hello!");
+end
