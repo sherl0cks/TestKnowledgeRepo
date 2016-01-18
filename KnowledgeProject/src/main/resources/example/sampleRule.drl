@@ -1,2 +1,6 @@
 package example;
 
+rule "test"
+when
+then
+end
